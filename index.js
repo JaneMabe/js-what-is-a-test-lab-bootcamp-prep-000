@@ -1,6 +1,6 @@
 // write your code below!
 var name = "Susan"
 var height = 39
-var message = {Joe,74,}
+var message = {name, height, message}
 
 module.exports = {name, height, message}
